@@ -1,0 +1,746 @@
+2020/02/16 11:23:46 logs file successfully opened
+2020/02/16 11:24:10 logs file successfully opened
+2020/02/16 11:24:10 Mysql Connection established successfully and ping to database successful
+2020/02/16 11:24:19 logs file successfully opened
+2020/02/16 11:24:19 Mysql Connection established successfully and ping to database successful
+2020/02/16 11:24:39 logs file successfully opened
+2020/02/16 11:24:39 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:10:47 logs file successfully opened
+2020/02/16 12:10:47 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:11:43 logs file successfully opened
+2020/02/16 12:11:43 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:11:43 Server running on port 8080
+2020/02/16 12:11:43 Error in setting up server with the error listen tcp 0.0.0.0:8080: bind: address already in use
+2020/02/16 12:11:57 logs file successfully opened
+2020/02/16 12:11:57 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:11:57 Server running on port 8080
+2020/02/16 12:22:45 logs file successfully opened
+2020/02/16 12:22:45 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:22:45 Server running on port 8080
+2020/02/16 12:23:01 path /
+2020/02/16 12:23:01 scheme 
+2020/02/16 12:23:01 Index page get request
+2020/02/16 12:23:10 path /
+2020/02/16 12:23:10 scheme 
+2020/02/16 12:23:10 Index page get request
+2020/02/16 12:26:53 logs file successfully opened
+2020/02/16 12:26:53 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:26:53 Server running on port 8080
+2020/02/16 12:26:57 path /
+2020/02/16 12:26:57 scheme 
+2020/02/16 12:26:57 Index page get request
+2020/02/16 12:27:19 logs file successfully opened
+2020/02/16 12:27:19 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:27:19 Server running on port 8080
+2020/02/16 12:27:22 path /
+2020/02/16 12:27:22 scheme 
+2020/02/16 12:27:22 Index page get request
+2020/02/16 12:28:38 logs file successfully opened
+2020/02/16 12:28:38 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:28:38 Server running on port 8080
+2020/02/16 12:28:41 path /
+2020/02/16 12:28:41 scheme 
+2020/02/16 12:28:41 Index page get request
+2020/02/16 12:29:07 logs file successfully opened
+2020/02/16 12:29:07 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:29:07 Server running on port 8080
+2020/02/16 12:29:07 path /
+2020/02/16 12:29:07 scheme 
+2020/02/16 12:29:07 Index page get request
+2020/02/16 12:29:34 path /
+2020/02/16 12:29:34 scheme 
+2020/02/16 12:29:34 Index page get request
+2020/02/16 12:29:39 logs file successfully opened
+2020/02/16 12:29:39 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:29:39 Server running on port 8080
+2020/02/16 12:29:40 path /
+2020/02/16 12:29:40 scheme 
+2020/02/16 12:29:40 Index page get request
+2020/02/16 12:39:12 logs file successfully opened
+2020/02/16 12:39:12 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:39:12 Server running on port 8080
+2020/02/16 12:40:14 logs file successfully opened
+2020/02/16 12:40:14 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:40:14 Server running on port 8080
+2020/02/16 12:40:26 path /
+2020/02/16 12:40:26 scheme 
+2020/02/16 12:40:26 Index page get request
+2020/02/16 12:40:30 path /
+2020/02/16 12:40:30 scheme 
+2020/02/16 12:40:30 Index page get request
+2020/02/16 12:40:31 path /
+2020/02/16 12:40:31 scheme 
+2020/02/16 12:40:31 Index page get request
+2020/02/16 12:40:31 path /
+2020/02/16 12:40:31 scheme 
+2020/02/16 12:40:31 Index page get request
+2020/02/16 12:40:31 path /
+2020/02/16 12:40:31 scheme 
+2020/02/16 12:40:31 Index page get request
+2020/02/16 12:40:31 path /
+2020/02/16 12:40:31 scheme 
+2020/02/16 12:40:31 Index page get request
+2020/02/16 12:40:35 path /registerurl
+2020/02/16 12:40:35 scheme 
+2020/02/16 12:40:35 Request to register a url received
+2020/02/16 12:41:18 logs file successfully opened
+2020/02/16 12:41:18 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:41:18 Server running on port 8080
+2020/02/16 12:41:22 path /
+2020/02/16 12:41:22 scheme 
+2020/02/16 12:41:22 Index page get request
+2020/02/16 12:41:28 path /
+2020/02/16 12:41:28 scheme 
+2020/02/16 12:41:28 Index page get request
+2020/02/16 12:41:28 path /
+2020/02/16 12:41:28 scheme 
+2020/02/16 12:41:28 Index page get request
+2020/02/16 12:41:28 path /
+2020/02/16 12:41:28 scheme 
+2020/02/16 12:41:28 Index page get request
+2020/02/16 12:41:29 path /
+2020/02/16 12:41:29 scheme 
+2020/02/16 12:41:29 Index page get request
+2020/02/16 12:41:29 path /
+2020/02/16 12:41:29 scheme 
+2020/02/16 12:41:29 Index page get request
+2020/02/16 12:41:29 path /
+2020/02/16 12:41:29 scheme 
+2020/02/16 12:41:29 Index page get request
+2020/02/16 12:41:29 path /
+2020/02/16 12:41:29 scheme 
+2020/02/16 12:41:29 Index page get request
+2020/02/16 12:41:29 path /
+2020/02/16 12:41:29 scheme 
+2020/02/16 12:41:29 Index page get request
+2020/02/16 12:41:37 path /
+2020/02/16 12:41:37 scheme 
+2020/02/16 12:41:37 Index page get request
+2020/02/16 12:41:37 path /
+2020/02/16 12:41:37 scheme 
+2020/02/16 12:41:37 Index page get request
+2020/02/16 12:41:38 path /
+2020/02/16 12:41:38 scheme 
+2020/02/16 12:41:38 Index page get request
+2020/02/16 12:41:38 path /
+2020/02/16 12:41:38 scheme 
+2020/02/16 12:41:38 Index page get request
+2020/02/16 12:41:40 path /
+2020/02/16 12:41:40 scheme 
+2020/02/16 12:41:40 Index page get request
+2020/02/16 12:42:21 path /
+2020/02/16 12:42:21 scheme 
+2020/02/16 12:42:21 Index page get request
+2020/02/16 12:42:26 path /registerurl
+2020/02/16 12:42:26 scheme 
+2020/02/16 12:42:26 Request to register a url received
+2020/02/16 12:42:26 key  originalurl
+2020/02/16 12:42:26 value aaa
+2020/02/16 12:45:45 logs file successfully opened
+2020/02/16 12:45:45 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:45:45 Server running on port 8080
+2020/02/16 12:45:49 path /
+2020/02/16 12:45:49 scheme 
+2020/02/16 12:45:49 Index page get request
+2020/02/16 12:45:50 path /registerurl
+2020/02/16 12:45:50 scheme 
+2020/02/16 12:45:50 Request to register a url received
+2020/02/16 12:45:50 key  originalurl
+2020/02/16 12:45:50 value aaa
+2020/02/16 12:45:50 original url received to register is  aaa
+2020/02/16 12:50:55 logs file successfully opened
+2020/02/16 12:50:55 Mysql Connection established successfully and ping to database successful
+2020/02/16 12:50:55 Server running on port 8080
+2020/02/16 12:50:57 path /
+2020/02/16 12:50:57 scheme 
+2020/02/16 12:50:57 Index page get request
+2020/02/16 12:50:59 path /registerurl
+2020/02/16 12:50:59 scheme 
+2020/02/16 12:50:59 Request to register a url received
+2020/02/16 12:50:59 key  originalurl
+2020/02/16 12:50:59 value aaa
+2020/02/16 12:50:59 original url received to register is  aaa
+2020/02/16 12:50:59 not exists
+2020/02/16 13:28:00 logs file successfully opened
+2020/02/16 13:28:00 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:28:00 Server running on port 8080
+2020/02/16 13:28:25 logs file successfully opened
+2020/02/16 13:28:25 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:28:25 Server running on port 8080
+2020/02/16 13:29:16 logs file successfully opened
+2020/02/16 13:29:16 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:29:16 Server running on port 8080
+2020/02/16 13:29:29 logs file successfully opened
+2020/02/16 13:29:29 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:29:29 Server running on port 8080
+2020/02/16 13:29:49 logs file successfully opened
+2020/02/16 13:29:49 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:29:49 Server running on port 8080
+2020/02/16 13:31:04 logs file successfully opened
+2020/02/16 13:31:04 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:31:04 Server running on port 8080
+2020/02/16 13:31:16 logs file successfully opened
+2020/02/16 13:31:16 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:31:16 Server running on port 8080
+2020/02/16 13:38:28 logs file successfully opened
+2020/02/16 13:38:28 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:38:28 Server running on port 8080
+2020/02/16 13:38:39 path /
+2020/02/16 13:38:39 scheme 
+2020/02/16 13:38:39 Index page get request
+2020/02/16 13:38:42 path /registerurl
+2020/02/16 13:38:42 scheme 
+2020/02/16 13:38:42 Request to register a url received
+2020/02/16 13:38:42 key  originalurl
+2020/02/16 13:38:42 value aaa
+2020/02/16 13:38:42 original url received to register is  aaa
+2020/02/16 13:38:42 Original URL doesnot Exist
+2020/02/16 13:38:42 making entry in database with original url =  aaa and hashed url corresponding =  RRiqBU=
+2020/02/16 13:38:42 preparing sql insert statement
+2020/02/16 13:38:42 
+2020/02/16 13:39:22 path /registerurl
+2020/02/16 13:39:22 scheme 
+2020/02/16 13:39:22 Request to register a url received
+2020/02/16 13:39:22 key  originalurl
+2020/02/16 13:39:22 value aaa
+2020/02/16 13:39:22 original url received to register is  aaa
+2020/02/16 13:39:22 logging URL already exists
+2020/02/16 13:39:22 exists
+2020/02/16 13:40:18 logs file successfully opened
+2020/02/16 13:40:18 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:40:18 Server running on port 8080
+2020/02/16 13:40:19 path /
+2020/02/16 13:40:19 scheme 
+2020/02/16 13:40:19 Index page get request
+2020/02/16 13:40:20 path /registerurl
+2020/02/16 13:40:20 scheme 
+2020/02/16 13:40:20 Request to register a url received
+2020/02/16 13:40:20 key  originalurl
+2020/02/16 13:40:20 value aaaa
+2020/02/16 13:40:20 original url received to register is  aaaa
+2020/02/16 13:40:20 Original URL doesnot Exist
+2020/02/16 13:40:20 making entry in database with original url =  aaaa and hashed url corresponding =  PRIDnk=
+2020/02/16 13:40:20 preparing sql insert statement
+2020/02/16 13:40:20 
+2020/02/16 13:40:21 insertion successful
+2020/02/16 13:45:22 logs file successfully opened
+2020/02/16 13:45:22 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:45:22 Server running on port 8080
+2020/02/16 13:45:32 path /abc
+2020/02/16 13:45:32 scheme 
+2020/02/16 13:45:32 shortened url is  abc
+2020/02/16 13:53:07 logs file successfully opened
+2020/02/16 13:53:07 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:53:07 Server running on port 8080
+2020/02/16 13:53:13 path /abc
+2020/02/16 13:53:13 scheme 
+2020/02/16 13:53:13 shortened url is  abc
+2020/02/16 13:53:13 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:11 logs file successfully opened
+2020/02/16 13:54:11 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:54:11 Server running on port 8080
+2020/02/16 13:54:20 path /abc
+2020/02/16 13:54:20 scheme 
+2020/02/16 13:54:20 shortened url is  abc
+2020/02/16 13:54:20 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:40 logs file successfully opened
+2020/02/16 13:54:40 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:54:40 Server running on port 8080
+2020/02/16 13:54:40 path /abc
+2020/02/16 13:54:40 scheme 
+2020/02/16 13:54:40 shortened url is  abc
+2020/02/16 13:54:40 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:41 path /abc
+2020/02/16 13:54:41 scheme 
+2020/02/16 13:54:41 shortened url is  abc
+2020/02/16 13:54:41 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:41 path /abc
+2020/02/16 13:54:41 scheme 
+2020/02/16 13:54:41 shortened url is  abc
+2020/02/16 13:54:41 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:41 path /abc
+2020/02/16 13:54:41 scheme 
+2020/02/16 13:54:41 shortened url is  abc
+2020/02/16 13:54:41 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:46 path /abc
+2020/02/16 13:54:46 scheme 
+2020/02/16 13:54:46 shortened url is  abc
+2020/02/16 13:54:46 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:50 path /jasb
+2020/02/16 13:54:50 scheme 
+2020/02/16 13:54:50 shortened url is  jasb
+2020/02/16 13:54:50 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:54:53 path /
+2020/02/16 13:54:53 scheme 
+2020/02/16 13:54:53 Index page get request
+2020/02/16 13:54:56 path /abcd
+2020/02/16 13:54:56 scheme 
+2020/02/16 13:54:56 shortened url is  abcd
+2020/02/16 13:54:56 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:56:29 logs file successfully opened
+2020/02/16 13:56:29 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:56:29 Server running on port 8080
+2020/02/16 13:56:30 path /abcd
+2020/02/16 13:56:30 scheme 
+2020/02/16 13:56:30 shortened url is  abcd
+2020/02/16 13:56:30 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:56:32 path /abcd
+2020/02/16 13:56:32 scheme 
+2020/02/16 13:56:32 shortened url is  abcd
+2020/02/16 13:56:32 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:56:32 path /abcd
+2020/02/16 13:56:32 scheme 
+2020/02/16 13:56:32 shortened url is  abcd
+2020/02/16 13:56:32 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:56:32 path /abcd
+2020/02/16 13:56:32 scheme 
+2020/02/16 13:56:32 shortened url is  abcd
+2020/02/16 13:56:32 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:56:38 path /abcd
+2020/02/16 13:56:38 scheme 
+2020/02/16 13:56:38 shortened url is  abcd
+2020/02/16 13:56:38 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:58:44 logs file successfully opened
+2020/02/16 13:58:44 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:58:44 Server running on port 8080
+2020/02/16 13:58:54 path /abc
+2020/02/16 13:58:54 scheme 
+2020/02/16 13:58:54 shortened url is  abc
+2020/02/16 13:58:54 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:58:55 path /abcd
+2020/02/16 13:58:55 scheme 
+2020/02/16 13:58:55 shortened url is  abcd
+2020/02/16 13:58:55 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:59:20 logs file successfully opened
+2020/02/16 13:59:20 Mysql Connection established successfully and ping to database successful
+2020/02/16 13:59:20 Server running on port 8080
+2020/02/16 13:59:22 path /abcd
+2020/02/16 13:59:22 scheme 
+2020/02/16 13:59:22 shortened url is  abcd
+2020/02/16 13:59:22 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:59:23 path /abcd
+2020/02/16 13:59:23 scheme 
+2020/02/16 13:59:23 shortened url is  abcd
+2020/02/16 13:59:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:59:23 path /abcd
+2020/02/16 13:59:23 scheme 
+2020/02/16 13:59:23 shortened url is  abcd
+2020/02/16 13:59:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:59:23 path /abcd
+2020/02/16 13:59:23 scheme 
+2020/02/16 13:59:23 shortened url is  abcd
+2020/02/16 13:59:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:59:25 path /abcd
+2020/02/16 13:59:25 scheme 
+2020/02/16 13:59:25 shortened url is  abcd
+2020/02/16 13:59:25 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 13:59:29 path /abc
+2020/02/16 13:59:29 scheme 
+2020/02/16 13:59:29 shortened url is  abc
+2020/02/16 13:59:29 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:01:23 logs file successfully opened
+2020/02/16 14:01:23 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:01:23 Server running on port 8080
+2020/02/16 14:01:32 path /ac
+2020/02/16 14:01:32 scheme 
+2020/02/16 14:01:32 shortened url is  ac
+2020/02/16 14:01:32 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:01:50 path /abcd
+2020/02/16 14:01:50 scheme 
+2020/02/16 14:01:50 shortened url is  abcd
+2020/02/16 14:01:50 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:17 logs file successfully opened
+2020/02/16 14:02:17 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:02:17 Server running on port 8080
+2020/02/16 14:02:19 path /abcd
+2020/02/16 14:02:19 scheme 
+2020/02/16 14:02:19 shortened url is  abcd
+2020/02/16 14:02:19 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:20 path /abcd
+2020/02/16 14:02:20 scheme 
+2020/02/16 14:02:20 shortened url is  abcd
+2020/02/16 14:02:20 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:20 path /abcd
+2020/02/16 14:02:20 scheme 
+2020/02/16 14:02:20 shortened url is  abcd
+2020/02/16 14:02:20 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:20 path /abcd
+2020/02/16 14:02:20 scheme 
+2020/02/16 14:02:20 shortened url is  abcd
+2020/02/16 14:02:20 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:20 path /abcd
+2020/02/16 14:02:20 scheme 
+2020/02/16 14:02:20 shortened url is  abcd
+2020/02/16 14:02:20 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:20 path /abcd
+2020/02/16 14:02:20 scheme 
+2020/02/16 14:02:20 shortened url is  abcd
+2020/02/16 14:02:20 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:21 path /abcd
+2020/02/16 14:02:21 scheme 
+2020/02/16 14:02:21 shortened url is  abcd
+2020/02/16 14:02:21 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:02:31 path /abcd
+2020/02/16 14:02:31 scheme 
+2020/02/16 14:02:31 shortened url is  abcd
+2020/02/16 14:02:31 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:54)
+2020/02/16 14:12:31 logs file successfully opened
+2020/02/16 14:12:31 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:12:31 Server running on port 8080
+2020/02/16 14:12:45 path /
+2020/02/16 14:12:45 scheme 
+2020/02/16 14:12:45 Index page get request
+2020/02/16 14:12:50 path /registerurl
+2020/02/16 14:12:50 scheme 
+2020/02/16 14:12:50 Request to register a url received
+2020/02/16 14:12:50 key  originalurl
+2020/02/16 14:12:50 value google.com
+2020/02/16 14:12:50 original url received to register is  google.com
+2020/02/16 14:12:50 Original URL doesnot Exist
+2020/02/16 14:12:50 making entry in database with original url =  google.com and hashed url corresponding =  FYM3EU=
+2020/02/16 14:12:50 preparing sql insert statement
+2020/02/16 14:12:50 
+2020/02/16 14:12:50 insertion successful
+2020/02/16 14:13:10 path /FYM3EU=
+2020/02/16 14:13:10 scheme 
+2020/02/16 14:13:10 shortened url is  FYM3EU=
+2020/02/16 14:13:10 GetOriginalURL called
+2020/02/16 14:13:10 url not found in routes.go
+2020/02/16 14:14:06 logs file successfully opened
+2020/02/16 14:14:06 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:14:06 Server running on port 8080
+2020/02/16 14:14:09 path /FYM3EU=
+2020/02/16 14:14:09 scheme 
+2020/02/16 14:14:09 shortened url is  FYM3EU=
+2020/02/16 14:14:09 GetOriginalURL called
+2020/02/16 14:14:09 url not found in routes.go URL NOT FOUND
+2020/02/16 14:15:06 logs file successfully opened
+2020/02/16 14:15:06 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:15:06 Server running on port 8080
+2020/02/16 14:15:08 path /FYM3EU=
+2020/02/16 14:15:08 scheme 
+2020/02/16 14:15:08 shortened url is  FYM3EU=
+2020/02/16 14:15:08 GetOriginalURL called
+2020/02/16 14:15:08 original url found  google.com
+2020/02/16 14:15:08 original url in routes.go google.com
+2020/02/16 14:15:08 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:58)
+2020/02/16 14:15:29 path /kas
+2020/02/16 14:15:29 scheme 
+2020/02/16 14:15:29 shortened url is  kas
+2020/02/16 14:15:29 GetOriginalURL called
+2020/02/16 14:15:29 url not found in routes.go URL NOT FOUND
+2020/02/16 14:17:44 logs file successfully opened
+2020/02/16 14:17:44 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:17:44 Server running on port 8080
+2020/02/16 14:17:49 path /abc
+2020/02/16 14:17:49 scheme 
+2020/02/16 14:17:49 shortened url is  abc
+2020/02/16 14:17:49 GetOriginalURL called
+2020/02/16 14:17:49 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:37 logs file successfully opened
+2020/02/16 14:18:37 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:18:37 Server running on port 8080
+2020/02/16 14:18:39 path /abc
+2020/02/16 14:18:39 scheme 
+2020/02/16 14:18:39 shortened url is  abc
+2020/02/16 14:18:39 GetOriginalURL called
+2020/02/16 14:18:39 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:40 path /abc
+2020/02/16 14:18:40 scheme 
+2020/02/16 14:18:40 shortened url is  abc
+2020/02/16 14:18:40 GetOriginalURL called
+2020/02/16 14:18:40 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:40 path /abc
+2020/02/16 14:18:40 scheme 
+2020/02/16 14:18:40 shortened url is  abc
+2020/02/16 14:18:40 GetOriginalURL called
+2020/02/16 14:18:40 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:40 path /abc
+2020/02/16 14:18:40 scheme 
+2020/02/16 14:18:40 shortened url is  abc
+2020/02/16 14:18:40 GetOriginalURL called
+2020/02/16 14:18:40 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:40 path /abc
+2020/02/16 14:18:40 scheme 
+2020/02/16 14:18:40 shortened url is  abc
+2020/02/16 14:18:40 GetOriginalURL called
+2020/02/16 14:18:40 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:40 path /abc
+2020/02/16 14:18:40 scheme 
+2020/02/16 14:18:40 shortened url is  abc
+2020/02/16 14:18:40 GetOriginalURL called
+2020/02/16 14:18:40 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:41 path /abc
+2020/02/16 14:18:41 scheme 
+2020/02/16 14:18:41 shortened url is  abc
+2020/02/16 14:18:41 GetOriginalURL called
+2020/02/16 14:18:41 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:41 path /abc
+2020/02/16 14:18:41 scheme 
+2020/02/16 14:18:41 shortened url is  abc
+2020/02/16 14:18:41 GetOriginalURL called
+2020/02/16 14:18:41 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:41 path /abc
+2020/02/16 14:18:41 scheme 
+2020/02/16 14:18:41 shortened url is  abc
+2020/02/16 14:18:41 GetOriginalURL called
+2020/02/16 14:18:41 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:41 path /abc
+2020/02/16 14:18:41 scheme 
+2020/02/16 14:18:41 shortened url is  abc
+2020/02/16 14:18:41 GetOriginalURL called
+2020/02/16 14:18:41 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:42 path /abc
+2020/02/16 14:18:42 scheme 
+2020/02/16 14:18:42 shortened url is  abc
+2020/02/16 14:18:42 GetOriginalURL called
+2020/02/16 14:18:42 url not found in routes.go URL NOT FOUND
+2020/02/16 14:18:42 path /abc
+2020/02/16 14:18:42 scheme 
+2020/02/16 14:18:42 shortened url is  abc
+2020/02/16 14:18:42 GetOriginalURL called
+2020/02/16 14:18:42 url not found in routes.go URL NOT FOUND
+2020/02/16 14:21:51 logs file successfully opened
+2020/02/16 14:21:51 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:21:51 Server running on port 8080
+2020/02/16 14:22:00 path /abc
+2020/02/16 14:22:00 scheme 
+2020/02/16 14:22:00 shortened url is  abc
+2020/02/16 14:22:00 GetOriginalURL called
+2020/02/16 14:22:00 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:28 logs file successfully opened
+2020/02/16 14:22:28 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:22:28 Server running on port 8080
+2020/02/16 14:22:29 path /abc
+2020/02/16 14:22:29 scheme 
+2020/02/16 14:22:29 shortened url is  abc
+2020/02/16 14:22:29 GetOriginalURL called
+2020/02/16 14:22:29 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:29 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:29 path /abc
+2020/02/16 14:22:29 scheme 
+2020/02/16 14:22:29 shortened url is  abc
+2020/02/16 14:22:29 GetOriginalURL called
+2020/02/16 14:22:29 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:29 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:29 path /abc
+2020/02/16 14:22:29 scheme 
+2020/02/16 14:22:29 shortened url is  abc
+2020/02/16 14:22:29 GetOriginalURL called
+2020/02/16 14:22:29 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:29 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:30 path /abc
+2020/02/16 14:22:30 scheme 
+2020/02/16 14:22:30 shortened url is  abc
+2020/02/16 14:22:30 GetOriginalURL called
+2020/02/16 14:22:30 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:30 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:30 path /abc
+2020/02/16 14:22:30 scheme 
+2020/02/16 14:22:30 shortened url is  abc
+2020/02/16 14:22:30 GetOriginalURL called
+2020/02/16 14:22:30 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:30 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:30 path /abc
+2020/02/16 14:22:30 scheme 
+2020/02/16 14:22:30 shortened url is  abc
+2020/02/16 14:22:30 GetOriginalURL called
+2020/02/16 14:22:30 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:30 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:30 path /abc
+2020/02/16 14:22:30 scheme 
+2020/02/16 14:22:30 shortened url is  abc
+2020/02/16 14:22:30 GetOriginalURL called
+2020/02/16 14:22:30 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:30 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:30 path /abc
+2020/02/16 14:22:30 scheme 
+2020/02/16 14:22:30 shortened url is  abc
+2020/02/16 14:22:30 GetOriginalURL called
+2020/02/16 14:22:30 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:30 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:38 logs file successfully opened
+2020/02/16 14:22:38 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:22:38 Server running on port 8080
+2020/02/16 14:22:41 path /abc
+2020/02/16 14:22:41 scheme 
+2020/02/16 14:22:41 shortened url is  abc
+2020/02/16 14:22:41 GetOriginalURL called
+2020/02/16 14:22:41 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:41 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:41 path /abc
+2020/02/16 14:22:41 scheme 
+2020/02/16 14:22:41 shortened url is  abc
+2020/02/16 14:22:41 GetOriginalURL called
+2020/02/16 14:22:41 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:41 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:49 path /abc
+2020/02/16 14:22:49 scheme 
+2020/02/16 14:22:49 shortened url is  abc
+2020/02/16 14:22:49 GetOriginalURL called
+2020/02/16 14:22:49 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:49 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:22:50 path /abc
+2020/02/16 14:22:50 scheme 
+2020/02/16 14:22:50 shortened url is  abc
+2020/02/16 14:22:50 GetOriginalURL called
+2020/02/16 14:22:50 url not found in routes.go URL NOT FOUND
+2020/02/16 14:22:50 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:22 path /abc
+2020/02/16 14:23:22 scheme 
+2020/02/16 14:23:22 shortened url is  abc
+2020/02/16 14:23:22 GetOriginalURL called
+2020/02/16 14:23:22 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:22 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:22 path /abc
+2020/02/16 14:23:22 scheme 
+2020/02/16 14:23:22 shortened url is  abc
+2020/02/16 14:23:22 GetOriginalURL called
+2020/02/16 14:23:22 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:22 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:22 path /abc
+2020/02/16 14:23:22 scheme 
+2020/02/16 14:23:22 shortened url is  abc
+2020/02/16 14:23:22 GetOriginalURL called
+2020/02/16 14:23:22 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:22 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:23 path /abc
+2020/02/16 14:23:23 scheme 
+2020/02/16 14:23:23 shortened url is  abc
+2020/02/16 14:23:23 GetOriginalURL called
+2020/02/16 14:23:23 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:23 path /abc
+2020/02/16 14:23:23 scheme 
+2020/02/16 14:23:23 shortened url is  abc
+2020/02/16 14:23:23 GetOriginalURL called
+2020/02/16 14:23:23 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:23 path /abc
+2020/02/16 14:23:23 scheme 
+2020/02/16 14:23:23 shortened url is  abc
+2020/02/16 14:23:23 GetOriginalURL called
+2020/02/16 14:23:23 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:23 path /abc
+2020/02/16 14:23:23 scheme 
+2020/02/16 14:23:23 shortened url is  abc
+2020/02/16 14:23:23 GetOriginalURL called
+2020/02/16 14:23:23 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:23 path /abc
+2020/02/16 14:23:23 scheme 
+2020/02/16 14:23:23 shortened url is  abc
+2020/02/16 14:23:23 GetOriginalURL called
+2020/02/16 14:23:23 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:23 path /abc
+2020/02/16 14:23:23 scheme 
+2020/02/16 14:23:23 shortened url is  abc
+2020/02/16 14:23:23 GetOriginalURL called
+2020/02/16 14:23:23 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:23 path /abc
+2020/02/16 14:23:23 scheme 
+2020/02/16 14:23:23 shortened url is  abc
+2020/02/16 14:23:23 GetOriginalURL called
+2020/02/16 14:23:23 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:23 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:23:24 path /abc
+2020/02/16 14:23:24 scheme 
+2020/02/16 14:23:24 shortened url is  abc
+2020/02/16 14:23:24 GetOriginalURL called
+2020/02/16 14:23:24 url not found in routes.go URL NOT FOUND
+2020/02/16 14:23:24 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:24:55 logs file successfully opened
+2020/02/16 14:24:55 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:24:55 Server running on port 8080
+2020/02/16 14:24:59 path /abc
+2020/02/16 14:24:59 scheme 
+2020/02/16 14:24:59 shortened url is  abc
+2020/02/16 14:24:59 GetOriginalURL called
+2020/02/16 14:24:59 url not found in routes.go URL NOT FOUND
+2020/02/16 14:24:59 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:25:00 path /abc
+2020/02/16 14:25:00 scheme 
+2020/02/16 14:25:00 shortened url is  abc
+2020/02/16 14:25:00 GetOriginalURL called
+2020/02/16 14:25:00 url not found in routes.go URL NOT FOUND
+2020/02/16 14:25:00 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:25:00 path /abc
+2020/02/16 14:25:00 scheme 
+2020/02/16 14:25:00 shortened url is  abc
+2020/02/16 14:25:00 GetOriginalURL called
+2020/02/16 14:25:00 url not found in routes.go URL NOT FOUND
+2020/02/16 14:25:00 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:25:01 path /abc
+2020/02/16 14:25:01 scheme 
+2020/02/16 14:25:01 shortened url is  abc
+2020/02/16 14:25:01 GetOriginalURL called
+2020/02/16 14:25:01 url not found in routes.go URL NOT FOUND
+2020/02/16 14:25:01 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:25:01 path /abc
+2020/02/16 14:25:01 scheme 
+2020/02/16 14:25:01 shortened url is  abc
+2020/02/16 14:25:01 GetOriginalURL called
+2020/02/16 14:25:01 url not found in routes.go URL NOT FOUND
+2020/02/16 14:25:01 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:25:07 path /abc
+2020/02/16 14:25:07 scheme 
+2020/02/16 14:25:07 shortened url is  abc
+2020/02/16 14:25:07 GetOriginalURL called
+2020/02/16 14:25:07 url not found in routes.go URL NOT FOUND
+2020/02/16 14:25:07 http: superfluous response.WriteHeader call from urlshortener/httpd/routes.urlGetHandler (routes.go:56)
+2020/02/16 14:26:01 logs file successfully opened
+2020/02/16 14:26:01 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:26:01 Server running on port 8080
+2020/02/16 14:26:03 path /abc
+2020/02/16 14:26:03 scheme 
+2020/02/16 14:26:03 shortened url is  abc
+2020/02/16 14:26:03 GetOriginalURL called
+2020/02/16 14:26:03 url not found in routes.go URL NOT FOUND
+2020/02/16 14:26:39 logs file successfully opened
+2020/02/16 14:26:39 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:26:39 Server running on port 8080
+2020/02/16 14:26:46 path /abc
+2020/02/16 14:26:46 scheme 
+2020/02/16 14:26:46 shortened url is  abc
+2020/02/16 14:26:46 GetOriginalURL called
+2020/02/16 14:26:46 url not found in routes.go URL NOT FOUND
+2020/02/16 14:27:05 logs file successfully opened
+2020/02/16 14:27:05 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:27:05 Server running on port 8080
+2020/02/16 14:27:12 path /abc
+2020/02/16 14:27:12 scheme 
+2020/02/16 14:27:12 shortened url is  abc
+2020/02/16 14:27:12 GetOriginalURL called
+2020/02/16 14:27:12 url not found in routes.go URL NOT FOUND
+2020/02/16 14:28:02 logs file successfully opened
+2020/02/16 14:28:02 Mysql Connection established successfully and ping to database successful
+2020/02/16 14:28:02 Server running on port 8080
+2020/02/16 14:28:12 path /
+2020/02/16 14:28:12 scheme 
+2020/02/16 14:28:12 Index page get request
+2020/02/16 14:28:27 path /FYM3EU=
+2020/02/16 14:28:27 scheme 
+2020/02/16 14:28:27 shortened url is  FYM3EU=
+2020/02/16 14:28:27 GetOriginalURL called
+2020/02/16 14:28:27 original url found  google.com
+2020/02/16 14:28:27 original url in routes.go google.com
+2020/02/16 14:28:41 path /registerurl
+2020/02/16 14:28:41 scheme 
+2020/02/16 14:28:41 Request to register a url received
+2020/02/16 14:28:41 key  originalurl
+2020/02/16 14:28:41 value facebook.com
+2020/02/16 14:28:41 original url received to register is  facebook.com
+2020/02/16 14:28:41 Original URL doesnot Exist
+2020/02/16 14:28:41 making entry in database with original url =  facebook.com and hashed url corresponding =  GtAKZo=
+2020/02/16 14:28:41 preparing sql insert statement
+2020/02/16 14:28:41 
+2020/02/16 14:28:41 insertion successful
+2020/02/16 14:28:55 path /GtAKZo=
+2020/02/16 14:28:55 scheme 
+2020/02/16 14:28:55 shortened url is  GtAKZo=
+2020/02/16 14:28:55 GetOriginalURL called
+2020/02/16 14:28:55 original url found  facebook.com
+2020/02/16 14:28:55 original url in routes.go facebook.com
